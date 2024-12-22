@@ -5,12 +5,12 @@ USE_PRODUCTION = False
 
 if USE_PRODUCTION:
     BASE_URL = 'https://api.godaddy.com/v1'
-    API_KEY = 'gHzhS3FGFce3_HhZ54zNfHefFFP7CqvoJmL'
-    API_SECRET = 'UziNJVVGdvk5pWAQc6d5GW'
+    API_KEY = '<Go Daddy API-Key>'
+    API_SECRET = '<Go Daddy API-Secret>'
 else:
     BASE_URL = 'https://api.ote-godaddy.com/v1'
-    API_KEY = '3mM44UdBzbnoeN_F5yLTRDViiZVW5dk12YPe2'
-    API_SECRET = '5edr1vbDz9jHVzYRAEez99'
+    API_KEY = '<Go Daddy API-Key>'
+    API_SECRET = '<Go Daddy API-Secret>'
 
 
 def check_domain_godaddy(domain):
