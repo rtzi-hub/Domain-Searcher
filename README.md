@@ -1,4 +1,4 @@
-# Domain Search Tool
+# My Domain Search Tool
 
 This tool checks the availability of domain names using the GoDaddy API. It processes a list of domain names from a file (`domains.txt`), verifies their availability, and writes the available domains to another file (`available_domains.txt`).
 
