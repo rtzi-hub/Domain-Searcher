@@ -1,2 +1,2 @@
-# Domain-Search
+# Domain-Searcher
 Domain Search
